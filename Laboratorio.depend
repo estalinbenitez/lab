@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1400860592 source:/home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	"Burbujita.h"
+	"burbu.h"
+	"hielo.h"
+	"burbujaazul.h"
+	"burbujabomba.h"
+	<list>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<sstream>
+	"Timer.h"
+
+1400775012 source:/home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/Burbujita.cpp
+	"Burbujita.h"
+
+1400775007 /home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/Burbujita.h
+	<SDL/SDL.h>
+	<list>
+	<string>
+
+1400773795 source:/home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/burbujaazul.cpp
+	"burbujaazul.h"
+
+1400729722 /home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/burbujaazul.h
+	"Burbujita.h"
+	<SDL/SDL.h>
+	<list>
+
+1400773795 source:/home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/burbujabomba.cpp
+	"burbujabomba.h"
+
+1400729916 /home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/burbujabomba.h
+	"Burbujita.h"
+	<SDL/SDL.h>
+	<list>
+
+1400773266 source:/home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/burbu.cpp
+	"burbu.h"
+
+1400773035 /home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/burbu.h
+	"Burbujita.h"
+	<SDL/SDL.h>
+	<list>
+
+1400773794 source:/home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/hielo.cpp
+	"hielo.h"
+
+1400773386 /home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/hielo.h
+	"Burbujita.h"
+	<SDL/SDL.h>
+	<list>
+
+1400815138 source:/home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/Timer.cpp
+	"Timer.h"
+
+1400776863 /home/estalinbenitez/Desktop/Programando en C++/Lab/Laboratorio/Timer.h
+	<SDL/SDL.h>
+	<list>
+	<string>
+
